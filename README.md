@@ -1,10 +1,10 @@
 # admin-element-vue-typescript
 
-### ts + vue3 学习项目
+ts + vue3 学习项目
 
-### 参考文档： http://admin-element-vue.liqingsong.cc/tsv2/guide/#%E5%8A%9F%E8%83%BD
+参考文档： http://admin-element-vue.liqingsong.cc/tsv2/guide/#%E5%8A%9F%E8%83%BD
 
-### 项目地址： http://tsv2-demo.admin-element-vue.liqingsong.cc
+项目地址： http://tsv2-demo.admin-element-vue.liqingsong.cc
 
 此分支是 Webpack + Vue3.x + Element Plus 版本 ， Vite 版本请查看 Vite.ts (分支)（[github](https://github.com/lqsong/admin-element-vue/tree/vite.ts)、[gitee](https://gitee.com/lqsong/admin-element-vue/tree/vite.ts)）
 
